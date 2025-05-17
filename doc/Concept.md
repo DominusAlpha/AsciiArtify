@@ -22,4 +22,4 @@
 ## Conclusion 
 After comparing Minikube, Kind, and k3d, I chose k3d for its speed, simplicity, and lightweight architecture. It runs Kubernetes inside Docker containers using the efficient k3s distribution, making it ideal for fast local development and CI/CD. With minimal resource usage and easy ingress support, k3d offers a streamlined, modern alternative to heavier VM-based setups.
 
-![image](data/demo k3d.gif)
+![image](data/demo_k3d.gif)
